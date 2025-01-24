@@ -1,0 +1,21 @@
+.box{
+    width: 1200px;
+    margin: 20px auto;
+}
+.box-item{
+    width: 220px;
+    border: 2px solid lightgrey;
+    padding: 24px 16px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left;
+    margin: 0 20px;
+}
+.p1{
+    color: blue;
+}
+.p2{
+    color: blue;
+    font-size: 15px;
+    border: 1px solid blue;
+}
