@@ -1,0 +1,29 @@
+.box{
+    width: 200px;
+    height: 500px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 650px;
+}
+.box1{
+    width: 200px;
+    height: 500px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 920px;
+    margin-top: -500px;
+}
+.rasm-1{
+    margin-left: 700px;
+}
+.rasm-2{
+    margin-left: 970px;
+    margin-top: -80px;
+}
+.w{
+    font-size: 30px;
+    color: green;
+    margin-left: 630px;
+}
